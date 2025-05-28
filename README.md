@@ -41,9 +41,3 @@ This SwiftUI app enables users to create and manage personal habits. It uses Cor
    - Tap to add habits.
    - Track progress by tapping ➕.
    - Get AI-powered suggestions with one tap.
-
----
-
-## 📄 License
-
-MIT License
